@@ -1,0 +1,17 @@
+TX,F,1980,Rosann,6
+TX,F,1984,Roshunda,6
+TX,F,1989,Sabina,6
+TX,F,1999,Samara,6
+TX,F,1981,Sammi,6
+KS,F,2012,Sammi,7
+TX,F,1999,Sana,6
+TX,F,1989,Santos,6
+TX,F,1984,Sarina,6
+NC,F,1987,Sergio,6
+TX,F,1985,Shandy,6
+TX,F,1984,Shante,6
+KS,F,1983,Sheronda,6
+KS,F,1999,Sheronda,7
+KS,M,2012,Sammi,7
+TX,F,1983,Shanique,6
+TX,F,1983,Shewiqua,6
